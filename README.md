@@ -6,4 +6,5 @@
 
 **Multi-formatted CHN Academic list.**
 
+Source data from public [databases](./databases.list) of various university libraries.  
 Both [GitLab](https://gitlab.com/fernvenue/chn-academic-list) and [GitHub](https://github.com/fernvenue/chn-academic-list) mirror each other, PRs are welcome on either side.
