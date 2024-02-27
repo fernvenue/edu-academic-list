@@ -26,7 +26,6 @@ aps.org
 arabidopsis.org
 artlib.cn
 artstor.org
-arxiv.org
 ascelibrary.org
 asm.org
 asme.org

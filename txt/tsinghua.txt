@@ -16,7 +16,6 @@ ancientbooks.cn
 annualreviews.org
 aps.org
 artstor.org
-arxiv.org
 ascelibrary.org
 asm.org
 asme.org
