@@ -80,6 +80,7 @@ cinfo.net.cn
 ckcest.cn
 clarivate.com
 clinicalkey.com
+cmpbook.com
 cmpkgs.com
 cnbksy.com
 cnbksy.net
@@ -122,6 +123,7 @@ edpsciences.org
 edu.cn
 electrochem.org
 elgaronline.com
+elib.link
 elsevier.com
 emath.fr
 embase.com

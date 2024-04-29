@@ -60,6 +60,7 @@ chineseall.cn
 cinfo.net.cn
 ckcest.cn
 clarivate.com
+cmpbook.com
 cmpkgs.com
 cnbksy.com
 cnipa.gov.cn
@@ -85,6 +86,7 @@ dooland.com
 duxiu.com
 eastview.com
 ebscohost.com
+elib.link
 emath.fr
 emeraldinsight.com
 emis.cn
